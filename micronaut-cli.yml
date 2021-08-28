@@ -1,0 +1,6 @@
+applicationType: function
+defaultPackage: co.cookies.worker
+testFramework: junit
+sourceLanguage: kotlin
+buildTool: gradle
+features: [annotation-api, app-name, aws-lambda, aws-lambda-custom-runtime, gcp-cloud-trace, github-workflow-google-cloud-run-graalvm, graalvm, gradle, http-client, jib, junit, kotlin, kotlin-extension-functions, logback, mockito, netty-server, properties, readme, security, security-annotations, shade, testcontainers]
